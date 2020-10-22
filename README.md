@@ -2,7 +2,7 @@
 
 This is a list of about 200 simple programs(beginner problems) in you should try in C.
 
-For solutions check [solutions.c](./solutions.c).
+All solutions are together binded in [solutions.c](./solutions.c) for interactive user input.
 
 * Basic Input Output
   * Calculator
